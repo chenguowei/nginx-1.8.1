@@ -1,0 +1,3 @@
+/Users/chenguowei/softwares/nginx-1.8.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/chenguowei/softwares/nginx-1.8.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chenguowei/softwares/nginx-1.8.1/cmake-build-debug/CMakeFiles/nginx_1_8_1.dir
